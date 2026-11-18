@@ -41,5 +41,13 @@ body{
     color:white;
     border-radius:1rem;
     border:none;
+}
 
+#new-btn{
+    padding:1rem;
+    font-size:1.25rem;
+    background-color:#2B2118;
+    color:white;
+    border-radius:1rem;
+    border:none;
 }
