@@ -51,3 +51,16 @@ body{
     border-radius:1rem;
     border:none;
 }
+
+#msg{
+    color:white;
+    font-size:5vmin;
+}
+
+.msg-container{
+    height:40vmin;
+}
+
+.hide{
+    diplay:none
+}
