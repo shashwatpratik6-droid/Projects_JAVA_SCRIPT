@@ -34,7 +34,7 @@ body{
     color:#B82C0D;
 }
 
-#reset{
+#reset-btn{
     padding:1rem;
     font-size:1.25rem;
     background-color:#2B2118;
@@ -58,9 +58,14 @@ body{
 }
 
 .msg-container{
-    height:40vmin;
+    height:100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
 }
 
 .hide{
-    diplay:none
+    display:none
 }
